@@ -1,2 +1,0 @@
-# propath
-career guidance system 
